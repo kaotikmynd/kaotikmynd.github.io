@@ -2,3 +2,8 @@ body
 {
 	background-image: url("../images/noise_bg.png");
 }
+
+h1#intro
+{
+	color: white;
+}
